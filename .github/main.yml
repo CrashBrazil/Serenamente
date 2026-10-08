@@ -2,7 +2,7 @@ name: Serenamente Actions
 
 on:
   push:
-    branches: ["CI/CD"]
+    branches: ["*"]
 
 jobs:
   build:
